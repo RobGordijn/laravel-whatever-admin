@@ -1,0 +1,18 @@
+{
+    "name": "robgordijn/laravel-whatever-admin",
+    "description": "A model admin panel for Laravel",
+    "require": {
+        "spatie/laravel-model-info": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Robgordijn\\LaravelWhateverAdmin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rob Gordijn",
+            "email": "hello@robgordijn.dev"
+        }
+    ]
+}
